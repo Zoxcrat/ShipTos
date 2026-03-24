@@ -1,0 +1,7 @@
+date,sap_total,tms_total,missing_in_tms,bay_locations,sap_duplicates,new_locations,removed_locations,sold_to,ship_to
+2026-02-18,579,59931,11,3,83,579,0,298,325
+2026-02-23,581,59950,11,6,82,581,0,299,325
+2026-03-02,582,60007,6,13,88,582,0,302,326
+2026-03-02,582,60631,5,15,88,582,0,302,326
+
+
