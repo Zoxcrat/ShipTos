@@ -12,7 +12,7 @@ import sys
 import pandas as pd
 from file_loader import build_week_pairs, load_data
 from processed_tracker import pending_week_pairs, register_processed_run
-from scripts.processor import (
+from processor import (
     normalize_ids,
     detect_duplicates,
     compare_systems,
