@@ -67,7 +67,7 @@ def run_one_week(sap_path, tms_path, file_date):
         "removed_locations": removed_location,
     }
 
-    export_datasets(datasets)
+    export_datasets(datasets, file_date)
 
     stats = pd.DataFrame(
         [
